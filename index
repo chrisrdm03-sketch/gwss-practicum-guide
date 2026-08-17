@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GWSS:3005 Practicum | Curriculum Guide</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="site-nav" id="navbar">
+        <div class="nav-brand">GWSS:3005 Practicum</div>
+        <button class="nav-toggle" aria-label="Toggle navigation">&#9776;</button>
+        <ul class="nav-links">
+            <li><a href="#start">Start Here</a></li>
+            <li><a href="#partner">Community Partner</a></li>
+            <li><a href="#phases">Phases</a></li>
+            <li><a href="#readings">Readings</a></li>
+            <li><a href="#tracker">Service Log</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-content">
+            <h1>GWSS:3005 Practicum</h1>
+            <p class="hero-subtitle">From research question to community action</p>
+            <p class="hero-meta">Instructor: Christopher-Rasheem McMillan | 3-4 s.h.</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section id="start" class="section">
+            <h2>Start Here</h2>
+            <div class="callout callout-info">
+                <strong>What this course is:</strong> A volunteer experience applying gender, women's, and sexuality studies in an authentic environment. You will identify a research question, find a community partner, complete 25 hours of service, produce two critical reflections, and submit a final project proposal.
+            </div>
+
+            <h3>The Arc of the Semester</h3>
+            <ol class="arc-list">
+                <li><strong>Weeks 1-2:</strong> Identify your research question + community partner</li>
+                <li><strong>Weeks 3-10:</strong> Complete 25 hours of service</li>
+                <li><strong>Week 6:</strong> Document 1 due (~2,002 words)</li>
+                <li><strong>Week 10:</strong> Document 2 due (~2,000 words)</li>
+                <li><strong>Week 14:</strong> Final Project Proposal due (1 page)</li>
+            </ol>
+
+            <h3>Grading</h3>
+            <ul>
+                <li>Document 1: Critical Theory Reflection (25%)</li>
+                <li>Document 2: Community Engagement Reflection (25%)</li>
+                <li>Final Project Proposal (30%)</li>
+                <li>Service Hours & Partner Engagement (15%)</li>
+                <li>Participation & Check-ins (5%)</li>
+            </ul>
+
+            <div class="callout callout-warning">
+                <strong>Important:</strong> You must identify your community partner and begin work within the first two weeks. This is not a course where you can wait until midterms to find your footing.
+            </div>
+        </section>
+
+        <section id="partner" class="section">
+            <h2>What Counts as a Community Partner?</h2>
+            <p>We define "community partner" broadly. Your partner should be a person, organization, or site where you can show up, do meaningful work, and reflect on that work through a GWSS lens. If your research question drives the choice, almost any sustained engagement can qualify.</p>
+
+            <div class="partner-grid">
+                <div class="partner-card">
+                    <h4>Direct Care</h4>
+                    <p>Babysitting, elder care, disability support, health clinic assistance, reproductive justice clinic support</p>
+                </div>
+                <div class="partner-card">
+                    <h4>Education & Youth</h4>
+                    <p>Tutoring, after-school programs, mentoring, library work, school support staff</p>
+                </div>
+                <div class="partner-card">
+                    <h4>Arts & Culture</h4>
+                    <p>Community theater, museum work, dance education, music programs, cultural centers</p>
+                </div>
+                <div class="partner-card">
+                    <h4>Advocacy & Organizing</h4>
+                    <p>Mutual aid networks, food banks, housing justice, labor organizing, immigrant rights, LGBTQ+ centers</p>
+                </div>
+                <div class="partner-card">
+                    <h4>Faith & Spiritual</h4>
+                    <p>Church programs, interfaith organizing, pastoral care, religious education</p>
+                </div>
+                <div class="partner-card">
+                    <h4>Self-Initiated</h4>
+                    <p>If you have an existing commitment that aligns with your research question, propose it. The key is intentionality and sustained engagement.</p>
+                </div>
+            </div>
+
+            <div class="callout callout-success">
+                <strong>The rule:</strong> Your research question determines your partner. Not the other way around. If you are studying care labor and Black maternal health, a babysitting arrangement with a family in your community is not "less than" a formal nonprofit. It is the work.
+            </div>
+        </section>
+
+        <section id="phases" class="section">
+            <h2>The Phases</h2>
+
+            <div class="phase" id="phase1">
+                <div class="phase-header">
+                    <span class="phase-number">01</span>
+                    <h3>Research Question</h3>
+                    <span class="phase-weeks">Weeks 1-2</span>
+                </div>
+                <div class="phase-body">
+                    <p>Before you find a partner, you need a question. Your research question is the engine. Everything else follows.</p>
+                    <h4>Prompts to get started:</h4>
+                    <ul>
+                        <li>What gendered or sexual dynamic in your community bothers, intrigues, or confuses you?</li>
+                        <li>What power relations are visible in the work you already do?</li>
+                        <li>What gap do you see between theory and practice?</li>
+                    </ul>
+                    <h4>Examples of strong research questions:</h4>
+                    <ul>
+                        <li>"How do Black mothers in my community navigate care labor when formal support systems fail?"</li>
+                        <li>"What gendered dynamics emerge in mutual aid food distribution networks?"</li>
+                        <li>"How does a rural church negotiate LGBTQ+ inclusion at the level of pastoral care?"</li>
+                    </ul>
+                    <div class="deliverable">
+                        <strong>Deliverable:</strong> A 2-3 sentence research question posted to ICON by the end of Week 2.
+                    </div>
+                </div>
+            </div>
+
+            <div class="phase" id="phase2">
+                <div class="phase-header">
+                    <span class="phase-number">02</span>
+                    <h3>Partner Match & Launch</h3>
+                    <span class="phase-weeks">Weeks 2-3</span>
+                </div>
+                <div class="phase-body">
+                    <p>Once your question is clear, identify a partner where you can engage with that question directly. Reach out, introduce yourself, and propose a 25-hour commitment over the semester.</p>
+                    <h4>Outreach Template:</h4>
+                    <div class="template-box">
+                        <p>Dear [Name],</p>
+                        <p>My name is [Name] and I am an undergraduate in Gender, Women's, and Sexuality Studies at the University of Iowa. I am completing a practicum this semester focused on [brief research question]. I am writing to ask if you would be willing to serve as my community partner.</p>
+                        <p>I can offer [your skills/availability]. I am required to complete 25 hours of engagement over the semester. I would also like to observe and reflect on [specific aspect related to your question].</p>
+                        <p>Would you be open to a brief conversation about what this might look like?</p>
+                        <p>Thank you,<br>[Your name]</p>
+                    </div>
+                    <div class="deliverable">
+                        <strong>Deliverable:</strong> Partner confirmation email + first log entry by end of Week 3.
+                    </div>
+                </div>
+            </div>
+
+            <div class="phase" id="phase3">
+                <div class="phase-header">
+                    <span class="phase-number">03</span>
+                    <h3>Service & Sustained Engagement</h3>
+                    <span class="phase-weeks">Weeks 3-10</span>
+                </div>
+                <div class="phase-body">
+                    <p>Complete your 25 hours. There is no prescribed way to do this. Some students do 3 hours a week. Some do intensive weekends. Some travel. The only requirement is that the work is sustained enough to generate real reflection.</p>
+                    <p>Use the <a href="#tracker">Service Log</a> below to track hours. You will submit a screenshot or export at the end of the semester.</p>
+                    <div class="callout callout-info">
+                        <strong>Tip:</strong> Keep a field journal. Not just hours, but moments. A conversation. A tension. A surprise. These become the raw material for Documents 1 and 2.
+                    </div>
+                </div>
+            </div>
+
+            <div class="phase" id="phase4">
+                <div class="phase-header">
+                    <span class="phase-number">04</span>
+                    <h3>Document 1: Critical Theory Reflection</h3>
+                    <span class="phase-weeks">Due Week 6 | ~2,002 words</span>
+                </div>
+                <div class="phase-body">
+                    <p>Use critical theory to analyze what you are experiencing in your community work. This is not a book report. It is an application.</p>
+                    <h4>Prompt:</h4>
+                    <p>Identify one critical theoretical framework (feminist, queer, Marxist, critical race, postcolonial, etc.) and use it to unpack a specific moment, tension, or pattern from your practicum. What does the theory illuminate that you could not see before? Where does the theory fall short or need stretching to account for your specific context?</p>
+                    <h4>Structure suggestion:</h4>
+                    <ol>
+                        <li><strong>Context (300 words):</strong> Your research question, partner, and what you have been doing.</li>
+                        <li><strong>Theory (500 words):</strong> The theoretical framework you are using. Define it. Cite it.</li>
+                        <li><strong>Application (1,000 words):</strong> Apply the theory to your field experience. Be specific. Use scenes.</li>
+                        <li><strong>Interrogation (200 words):</strong> Where does the theory fail you? What does your community work reveal that the theory cannot fully capture?</li>
+                    </ol>
+                    <div class="deliverable">
+                        <strong>Submit via ICON.</strong> Use APA or Chicago citation style. Include a bibliography.
+                    </div>
+                </div>
+            </div>
+
+            <div class="phase" id="phase5">
+                <div class="phase-header">
+                    <span class="phase-number">05</span>
+                    <h3>Document 2: Community Engagement Reflection</h3>
+                    <span class="phase-weeks">Due Week 10 | ~2,000 words</span>
+                </div>
+                <div class="phase-body">
+                    <p>This is the mirror image of Document 1. Where Document 1 starts with theory and moves to practice, Document 2 starts with practice and asks what you have learned about working in community.</p>
+                    <h4>Prompt:</h4>
+                    <p>Reflect on your 25 hours of service. What have you learned about showing up, listening, laboring, and leaving? How has your understanding of your research question shifted through the work itself? What ethical tensions have emerged? How are you negotiating positionality, power, and care?</p>
+                    <h4>Structure suggestion:</h4>
+                    <ol>
+                        <li><strong>Showing Up (500 words):</strong> How did you enter this space? What negotiations of identity, power, and trust were required?</li>
+                        <li><strong>The Work (700 words):</strong> What did you actually do? What surprised you? What exhausted you?</li>
+                        <li><strong>Positionality (500 words):</strong> Who are you in this space? How did your body, your history, your training shape the work?</li>
+                        <li><strong>Revised Question (300 words):</strong> How has your research question changed?</li>
+                    </ol>
+                    <div class="deliverable">
+                        <strong>Submit via ICON.</strong>
+                    </div>
+                </div>
+            </div>
+
+            <div class="phase" id="phase6">
+                <div class="phase-header">
+                    <span class="phase-number">06</span>
+                    <h3>Final Project Proposal</h3>
+                    <span class="phase-weeks">Due Week 14 | 1 page</span>
+                </div>
+                <div class="phase-body">
+                    <p>This is what I grade you on. The proposal should articulate what you would do next if you had another semester. It is not a retrospective. It is a forward-looking plan.</p>
+                    <h4>Required elements:</h4>
+                    <ul>
+                        <li>Your refined research question</li>
+                        <li>A description of your community partner and your role</li>
+                        <li>The critical theoretical framework that guides your analysis</li>
+                        <li>A proposed deliverable (article, zine, presentation, curriculum, performance, policy brief, etc.)</li>
+                        <li>A timeline and method for completion</li>
+                        <li>An ethics statement addressing positionality, consent, and reciprocity</li>
+                    </ul>
+                    <div class="template-box">
+                        <p><strong>Proposal Template (1 page, single-spaced)</strong></p>
+                        <p><strong>Title</strong></p>
+                        <p><strong>Research Question:</strong> [1-2 sentences]</p>
+                        <p><strong>Community Context:</strong> [2-3 sentences on partner and your role]</p>
+                        <p><strong>Theoretical Framework:</strong> [2-3 sentences]</p>
+                        <p><strong>Proposed Deliverable:</strong> [What you will make]</p>
+                        <p><strong>Method & Timeline:</strong> [How and when]</p>
+                        <p><strong>Ethics:</strong> [How you will navigate consent, reciprocity, and departure]</p>
+                    </div>
+                    <div class="deliverable">
+                        <strong>Submit via ICON.</strong> This is the graded deliverable.
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="readings" class="section">
+            <h2>Reading Room</h2>
+            <p>Readings are suggested, not required. They are organized by phase and tagged by theoretical tradition. Dip in where you need support.</p>
+
+            <div class="reading-phase">
+                <h3>Phase 1: Research Question</h3>
+                <ul class="reading-list">
+                    <li><span class="tag tag-method">Method</span> Haraway, Donna. "Situated Knowings." <em>Feminist Studies</em>.</li>
+                    <li><span class="tag tag-method">Method</span> hooks, bell. "Choosing the Margin as a Space of Radical Openness." <em>Yearning</em>.</li>
+                </ul>
+            </div>
+
+            <div class="reading-phase">
+                <h3>Phase 3: Community Engagement</h3>
+                <ul class="reading-list">
+                    <li><span class="tag tag-care">Care</span> Federici, Silvia. "Wages Against Housework."</li>
+                    <li><span class="tag tag-care">Care</span> Traister, Amber. "Community Care."</li>
+                    <li><span class="tag tag-ethics">Ethics</span> Tuck, Eve. "Suspending Damage." <em>Harvard Educational Review</em>.</li>
+                </ul>
+            </div>
+
+            <div class="reading-phase">
+                <h3>Phase 4: Critical Theory</h3>
+                <ul class="reading-list">
+                    <li><span class="tag tag-queer">Queer</span> Muñoz, José Esteban. "Ephemera."</li>
+                    <li><span class="tag tag-race">Race</span> Crenshaw, Kimberlé. "Mapping the Margins."</li>
+                    <li><span class="tag tag-mar">Marxist</span> Marx, Karl. "Economic and Philosophic Manuscripts." (excerpt)</li>
+                    <li><span class="tag tag-post">Postcol</span> Spivak, Gayatri. "Can the Subaltern Speak?" (excerpt)</li>
+                    <li><span class="tag tag-fem">Feminist</span> Ahmed, Sara. "Living a Feminist Life." (excerpt)</li>
+                </ul>
+            </div>
+
+            <div class="reading-phase">
+                <h3>Phase 5: Reflection</h3>
+                <ul class="reading-list">
+                    <li><span class="tag tag-ethics">Ethics</span> Madison, D. Soyini. <em>Critical Ethnography</em>. (excerpt)</li>
+                    <li><span class="tag tag-method">Method</span> Kirshenblatt-Gimblett, Barbara. "The Corpus of the Archive."</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="tracker" class="section">
+            <h2>Service Hour Tracker</h2>
+            <p>Use this to log your hours. Your data stays in your browser - screenshot or export before you clear your cache.</p>
+
+            <div class="tracker-controls">
+                <input type="date" id="logDate" required>
+                <input type="number" id="logHours" placeholder="Hours" min="0" max="24" step="0.5" required>
+                <input type="text" id="logActivity" placeholder="What did you do?" required>
+                <button onclick="addLog()">Add Entry</button>
+            </div>
+
+            <div class="tracker-stats">
+                <div class="stat-box">
+                    <span class="stat-number" id="totalHours">0</span>
+                    <span class="stat-label">of 25 hours</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+            </div>
+
+            <table class="tracker-table" id="trackerTable">
+                <thead>
+                    <tr><th>Date</th><th>Hours</th><th>Activity</th><th></th></tr>
+                </thead>
+                <tbody id="trackerBody">
+                </tbody>
+            </table>
+
+            <button class="export-btn" onclick="exportLog()">Export to CSV</button>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <p>GWSS:3005 Practicum | University of Iowa</p>
+        <p>Instructor: Christopher-Rasheem McMillan</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
